@@ -2,7 +2,7 @@
 model that classify what cloth image is this
 
 **🔍 Project Overview**
-This project uses image recognition to identify types of food from images. It leverages Convolutional Neural Networks (CNNs) trained on a dataset of labeled food images.
+This project uses image recognition to identify types of cloth from images. It leverages Convolutional Neural Networks (CNNs) trained on a dataset of labeled food images.
 
 **🛠️ Technologies Used**
 - Python
