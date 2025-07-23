@@ -16,13 +16,13 @@ This project uses image recognition to identify types of cloth from images. It l
 - matplotlib
 
 **🚀 Workflow**
-get cloth image dataset from kaggel (fashionmnist dataset)
-Preprocessed images (resize, normalize)
-Trained a CNN model.
-Evaluated accuracy and loss
+- get cloth image dataset from kaggel (fashionmnist dataset)
+- Preprocessed images (resize, normalize)
+- Trained a CNN model.
+- Evaluated accuracy and loss
 
 **📊 Results**
-Accuracy: 83% on validation set
+- Accuracy: 83% on validation set
 
 ## 📸 Screenshot
 
