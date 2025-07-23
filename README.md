@@ -26,7 +26,6 @@ Accuracy: 83% on validation set
 
 ## 📸 Screenshot
 
-![Model confusion metrix graph](assets/food_confusion_metrix.png)
-![Model confusion metrix graph](assets/2food_confusion_metrix.png)
+![Model confusion metrix graph](assets/cloth_confusion_metrix.png)
 
 
